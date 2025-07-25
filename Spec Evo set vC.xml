@@ -1,0 +1,2984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>EVO</name>
+      <longname></longname>
+      <settype>Custom</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Growing Hunger</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control. Then it fights target creature you don’t control. If the creature you don’t control would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Leyline Compass</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Leyline Compass enters, draw a card.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Mobile Nanohive</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment Fortification </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped permanent is a 4/4 Elemental creature with vigilance and haste in addition to its other types.
+Equip land {3}</text>
+    </card>
+    <card>
+      <name>Titanic Rover</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Colonial Siphoner</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Jellyfish </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+2W: Attacking creatures get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Churn of Eons</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill two cards, then you may return a creature or land card from your graveyard to your hand.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Awakener Gremlin</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Gremlin </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Awakener Gremlin attacks, target land you control becomes a 3/3 Elemental creature until end of turn that’s attacking. It’s still a land.</text>
+    </card>
+    <card>
+      <name>Hollow Stiltwalker</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, Sacrifice another creature: You gain life equal to that creature’s toughness. Draw a card. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Weary Vestige</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever another creature you control dies, you gain 1 life and scry 1.</text>
+    </card>
+    <card>
+      <name>Drift Away</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand. Scry 1.</text>
+    </card>
+    <card>
+      <name>Fungal Symbiote</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Fungus </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Put a +1/+1 counter on target creature that was the target of another spell or ability you controlled this turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Nectarpot Grub</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Nectarpot Grub enters, target creature gets +1/+1 until end of turn for each creature in your ecosystem. Put a vigilance counter on it. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Momentary Breakdown</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target permanent, then return it to the battlefield under its owner’s control.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Outcompete</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Outcompete deals X damage to target creature, where X is 1 plus the number of creatures in your ecosystem. If that creature would die this turn, exile it instead. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Restless Landscape</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+As long as Restless Landscape has a counter on it, it’s a 2/3 Elemental creature with haste in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Integrated Armory</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Integrated Armory enters, create a 1/1 colorless Drone artifact creature token, then attach Integrated Armory to it.
+Whenever equipped creature attacks, put a +1/+1 counter on it.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Endless Path</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{2}, {T}: You may put a land card from your hand onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Treasure Hunt</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.</text>
+    </card>
+    <card>
+      <name>Nanogene Thief</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Gremlin </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, if you control four or more untapped lands, put a counter of your choice on Nanogene Thief from among +1/+1 and each kind of counter on a permanent.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Drowning in Tar</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Drowning in Tar enters, remove all counters from enchanted creature.
+Enchanted creature gets -1/-1 and has “At the beginning of your end step, sacrifice this creature.”</text>
+    </card>
+    <card>
+      <name>Surgical Drone</name>
+      <set rarity="common" splitterPath="/Surgical Drone.png" >EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+5W: Return Surgical Drone from your graveyard to the battlefield transformed. Activate only as a sorcery.
+---
+(Back): Soulkeeper Drone</text>
+      <related attach="transform">Soulkeeper Drone</related>
+    </card>
+    <card>
+      <name>Soulkeeper Drone</name>
+      <set rarity="common" splitterPath="/Soulkeeper Drone.png" >EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Drone </type>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Soulkeeper Drone dies, exile it and create a 1/1 white Spirit creature token with flying.
+---
+(Front): Surgical Drone</text>
+      <related attach="transform">Surgical Drone</related>
+    </card>
+    <card>
+      <name>Distant Horizons</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+When Distant Horizons enters, put a counter of your choice on target creature you control from among vigilance, reach, and +1/+1.
+Enchanted land has “{T}: Add two mana of any one color.”</text>
+    </card>
+    <card>
+      <name>Memories of Extinction</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you may pay 1 life and exile a permanent card from your graveyard. If you do, create a 1/1 white Spirit creature token with flying.</text>
+    </card>
+    <card>
+      <name>Automated Defenses</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Automated Defenses deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Rapid Assimilation</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Move any number of counters from artifacts, creatures, and lands you control onto target permanent you control.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Perilous Descent</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, mill a card.
+3G, Exile Perilous Descent: Return up to two target permanent cards from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Adamant Raptor</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Drone Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever one or more counters are put on Adamant Raptor, you gain that much life.</text>
+    </card>
+    <card>
+      <name>Pitfall Excavator</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Pitfall Excavator attacks, tap target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Feral Hunter-Killer</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Feral Hunter-Killer has menace and lifelink as long as you spent mana to activate an ability this turn.</text>
+    </card>
+    <card>
+      <name>Tanglepod Larva</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Tap target creature with mana value 2 or greater.</text>
+    </card>
+    <card>
+      <name>Ion Cruiser</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Drone Ship </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast if you control an artifact creature and {1} less to cast if you control a nonartifact creature.
+Flying
+When Ion Cruiser enters, you may sacrifice another creature. When you do, exile target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Symbiotic Tactics</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on up to one target artifact creature and up to one target nonartifact creature. Those creatures gain first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Silicon Predator</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Silicon Predator enters, create a 1/1 colorless Drone artifact creature token.
+{2}, Sacrifice another creature: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Harrier Drone</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Harrier Drone enters, target creature gets -1/-0 until end of turn for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Harsh Conditions</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap up to two target creatures. For each of them, put your choice of a stun counter or a +1/+1 counter on it.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Oceanic Monstrosity</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {3}
+Oceanic Monstrosity can’t be blocked as long as you control ten or more lands.</text>
+    </card>
+    <card>
+      <name>Autonomous Carrier</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Drone Ship </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Phase Stalker</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, Phase Stalker gets +1/+0 until end of turn and can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Out of Sync</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XU</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {X}. Scry 1.</text>
+    </card>
+    <card>
+      <name>Relentless Rover</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, Exile a permanent card from your graveyard: Return Relentless Rover from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Blight Gorger</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature or pay {2}.
+When Blight Gorger enters, target opponent discards a card.</text>
+    </card>
+    <card>
+      <name>Culling Drone</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Culling Drone enters, target opponent sacrifices a creature with the same power as another creature they control.</text>
+    </card>
+    <card>
+      <name>Vestige of Calamity</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of your end step, if you control four or more untapped lands, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Viscera Drone</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{3}, Sacrifice another creature: Put a +1/+1 counter on Viscera Drone.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Oilfang Pack</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Menace
+When Oilfang Pack enters, each opponent loses 3 life and you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Twisted Amalgam</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control with a counter on it dies, draw a card.</text>
+    </card>
+    <card>
+      <name>Unnatural Preservation</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put your choice of a deathtouch counter or a lifelink counter on target creature. When that creature dies this turn, return it to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Earthen Awakening</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target land you control becomes a 3/3 Elemental creature with haste until end of turn. It’s still a land. It deals damage equal to its power to up to one other target creature.</text>
+    </card>
+    <card>
+      <name>Peroxide Spitter</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, Peroxide Spitter deals 1 damage to target opponent or battle.</text>
+    </card>
+    <card>
+      <name>Boomcroak Alpha</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Frog Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Boomcroak Alpha enters, it deals damage equal to the number of creatures in your ecosystem to any target. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Rockslide Hellion</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hellion </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3R: Target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Voracite Swarm</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Voracite Swarm enters, choose one—
+• Destroy target artifact.
+• Voracite Swarm deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Curious Rover</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Curious Rover gets +2/+0 as long as you spent mana to activate an ability this turn.</text>
+    </card>
+    <card>
+      <name>Burn Fuel</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+0 until end of turn. Put a +1/+1 counter and a trample counter on it.</text>
+    </card>
+    <card>
+      <name>Limits of Solidarity</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Atomic Brute</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental Beast </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste</text>
+    </card>
+    <card>
+      <name>Vengeant Earth</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature or land you control becomes a 4/4 Elemental creature with haste in addition to its other types until end of turn. It must be blocked this turn if able.</text>
+    </card>
+    <card>
+      <name>Flourishing Leylith</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Plant Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Flourishing Leylith enters or attacks, choose one—
+• Put a +1/+1 counter on target creature.
+• Put a +1/+1 counter on each creature you control with a counter on it.</text>
+    </card>
+    <card>
+      <name>Root Grub</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Root Grub enters, mill X cards and you gain X life, where X is the number of creatures in your ecosystem. Put a permanent card milled this way into your hand. Then you may shuffle the rest of the milled cards into your library. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Harvest Drone</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Untap target land.
+{T}: You may put a land card from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Colossal Ancient</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6GG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Colossal Ancient enters or dies, you gain 4 life.</text>
+    </card>
+    <card>
+      <name>Earth Weaver</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Spider </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, reach
+2G, Exile a permanent card from your graveyard: Earth Weaver gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Brooding Terraloth</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Turtle Beast </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Brooding Terraloth enters, create a 0/1 green Egg creature token with defender and “{T}, Sacrifice this creature: Add GG. Spend this mana only to cast creature spells.”</text>
+    </card>
+    <card>
+      <name>Valrain&apos;s Journal</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Valrain’s Journal enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}, {T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Synthfruit Grove</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Synthfruit Grove enters with three +1/+1 counters on it.
+{1}, {T}: Move a counter from Synthfruit Grove onto target creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Towering Mechanoid</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Towering Mechanoid enters with your choice of a +1/+1 counter or a reach counter on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Looming Pinnacle</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)
+Looming Pinnacle enters tapped.
+Cycling 3R (3R, Discard this card: Draw a card.)
+When you cycle Looming Pinnacle, target land you control becomes a 4/4 Elemental creature with haste until end of turn. It’s still a land.</text>
+    </card>
+    <card>
+      <name>Adaptive Vermin</name>
+      <set rarity="common" splitterPath="/Adaptive Vermin.png" >EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>5B: Return Adaptive Vermin from your graveyard to the battlefield transformed. Activate only as a sorcery.
+---
+(Back): Preserved Elder</text>
+      <related attach="transform">Preserved Elder</related>
+    </card>
+    <card>
+      <name>Preserved Elder</name>
+      <set rarity="common" splitterPath="/Preserved Elder.png" >EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Zombie Rat </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Preserved Elder dies, exile it and draw a card.
+---
+(Front): Adaptive Vermin</text>
+      <related attach="transform">Adaptive Vermin</related>
+    </card>
+    <card>
+      <name>Adaptive Rover</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Afflicted Sanguivore</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire Dog </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Afflicted Sanguivore enters with your choice of a +1/+1 counter or a lifelink counter on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Territorial Bellower</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Territorial Bellower enters with your choice of a +1/+1 counter or a menace counter on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Ceaseless Exploration</name>
+      <set rarity="common" splitterPath="/Ceaseless Exploration.png" >EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may play an additional land this turn.
+Draw a card.
+6G: Put Ceaseless Exploration from your graveyard onto the battlefield transformed. Activate only as a sorcery.
+---
+(Back): Seedborn Behemoth</text>
+      <related attach="transform">Seedborn Behemoth</related>
+    </card>
+    <card>
+      <name>Seedborn Behemoth</name>
+      <set rarity="common" splitterPath="/Seedborn Behemoth.png" >EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Plant Elemental </type>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Seedborn Behemoth dies, exile it.
+---
+(Front): Ceaseless Exploration</text>
+      <related attach="transform">Ceaseless Exploration</related>
+    </card>
+    <card>
+      <name>Stampeding Thunderbeest</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Stampeding Thunderbeest enters with your choice of a +1/+1 counter or a trample counter on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Doomed Vessel</name>
+      <set rarity="common" splitterPath="/Doomed Vessel.png" >EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Spirit Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>6U: Return Doomed Vessel from your graveyard to the battlefield transformed. Activate only as a sorcery.
+---
+(Back): Unbound Overseer</text>
+      <related attach="transform">Unbound Overseer</related>
+    </card>
+    <card>
+      <name>Unbound Overseer</name>
+      <set rarity="common" splitterPath="/Unbound Overseer.png" >EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Spirit </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Unbound Overseer dies, exile it.
+---
+(Front): Doomed Vessel</text>
+      <related attach="transform">Doomed Vessel</related>
+    </card>
+    <card>
+      <name>Patient Ambusher</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Squid </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Patient Ambusher enters with your choice of a +1/+1 counter or a vigilance counter on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Fledgling Pterokite</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fledgling Pterokite enters with your choice of a +1/+1 counter or a flying counter on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Ocean Segment</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)    
+Ocean Segment enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Ridge Segment</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)    
+Ridge Segment enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Prairie Segment</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)    
+Prairie Segment enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Waste Segment</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.    
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Uncharted Haven</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Uncharted Haven enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.</text>
+    </card>
+    <card>
+      <name>Timber Segment</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)    
+Timber Segment enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Moor Segment</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)    
+Moor Segment enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Xerid Sentry</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike, vigilance
+Whenever Xerid Sentry attacks, untap target creature.</text>
+    </card>
+    <card>
+      <name>Blighted Hulk</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Zombie Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever Blighted Hulk or another creature you control dies, target opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Thirst for Insight</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard two cards unless you discard a card with cycling.</text>
+    </card>
+    <card>
+      <name>Ravenous Hunter</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ravenous Hunter deals combat damage, put a +1/+1 counter on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Goliath Hydra</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XXGG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Goliath Hydra enters with three times X +1/+1 counters on it.
+Trample
+As long as Goliath Hydra has twelve or more counters on it, it has hexproof and must be blocked if able.</text>
+    </card>
+    <card>
+      <name>Tactician Drone</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other artifact creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Shore Drinker</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Lizard Shark </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a land you control enters, choose target creature an opponent controls. If it’s tapped, put a stun counter on it. Otherwise, tap it.</text>
+    </card>
+    <card>
+      <name>Crystalling</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, Discard a land card: Put a counter of your choice on Crystalling from among flying, vigilance, and +1/+1.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Skyline Sentinel</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Skyline Sentinel enters, tap target creature. It gets -2/-0 and loses all abilities until end of turn.</text>
+    </card>
+    <card>
+      <name>Wasteland Dowser</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Tap an untapped artifact you control: Scry 1.</text>
+    </card>
+    <card>
+      <name>Shrieking Detritivore</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Fungus Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may cast Shrieking Detritivore from your graveyard if you discarded a card, sacrificed a permanent, paid life, or exiled a card from your graveyard this turn.
+Menace, haste</text>
+    </card>
+    <card>
+      <name>Unending Swarm</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{B}, Sacrifice another creature: Unending Swarm gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Unrestrained Expansion</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, mill two cards, then return a land card from your graveyard to the battlefield tapped.
+If you would draw a card while your library has no cards in it, instead return up to two cards from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Fused Chimera</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Leech Chimera </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Ward—Pay 5 life.
+Fused Chimera can’t be blocked by two or more creatures with the same power as each other.</text>
+    </card>
+    <card>
+      <name>Rumbling Scalecrusher</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Lizard Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Rumbling Scalecrusher attacks, target attacking creature gets +X/+0 until end of turn, where X is Rumbling Scalecrusher’s power.</text>
+    </card>
+    <card>
+      <name>Fuelpot Drone</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Abilities you activate that aren’t mana abilities cost {2} less to activate. This effect can’t reduce the mana in that cost to less than one mana.
+You may activate abilities of creatures you control as though those creatures had haste.</text>
+    </card>
+    <card>
+      <name>Bombardment Drone</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Each land card in your hand has cycling {2}. ({2}, Discard this card: Draw a card.)
+Whenever you discard a card, Bombardment Drone gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Esyra Outskirts</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Esyra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Esyra Outskirts enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+{2}, {T}, Sacrifice a non-Esyra land: Create a tapped Esyra land token with “{T}, Pay 1 life: Add one mana of any color.” You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Eerie Citadel</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)
+Eerie Citadel enters tapped.
+Cycling 3W (3W, Discard this card: Draw a card.)
+When you cycle Eerie Citadel, create a 1/1 white Spirit creature token with flying.</text>
+    </card>
+    <card>
+      <name>Flooded Resort</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)
+Flooded Resort enters tapped.
+Cycling 3U (3U, Discard this card: Draw a card.)
+When you cycle Flooded Resort, draw an additional card.</text>
+    </card>
+    <card>
+      <name>Lithoid Prowler</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, you may exile a land card from your graveyard. If you do, create a token that’s a copy of it, except it’s a 4/4 Elemental creature with haste that’s still a land. Untap the token. Exile it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Unstable Segment</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Unstable Segment: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Cycling {5} ({5}, Discard this card: Draw a card.)
+When you cycle Unstable Segment, each opponent loses X life and you gain X life, where X is the number of colors of mana spent to pay its cycling cost.</text>
+    </card>
+    <card>
+      <name>Relic Trawler</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Drone Ship </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+At the beginning of your end step, if you control four or more untapped lands, draw a card.</text>
+    </card>
+    <card>
+      <name>Awakened Behemoth</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>6RG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Elemental Giant </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)
+Trample, haste</text>
+    </card>
+    <card>
+      <name>Adaptive Apex</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Adaptive Apex gets +1/+1 for each counter on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Extractor Vessel</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Spirit Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you spend mana to activate an ability, Extractor Vessel deals 1 damage to target opponent or battle and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Fruiting Chorus</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>4GU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Fungus Dryad </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fruiting Chorus’s power and toughness are each equal to the number of lands you control.
+Whenever Fruiting Chorus attacks, draw a card, then you may put a land card from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Gestalt Resonator</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Drone Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Gestalt Resonator enters, put a +1/+1 counter on up to one other target artifact creature and up to one target nonartifact creature.</text>
+    </card>
+    <card>
+      <name>Keystone Grazer</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Squid Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Keystone Grazer attacks, attacking creatures in your ecosystem get +1/+1 until end of turn. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Genetic Scavenger</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Leech Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{3}, Exile a permanent card from your graveyard: Put a counter of your choice on Genetic Scavenger from among vigilance, menace, and +1/+1.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Secluded Refuge</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)
+Secluded Refuge enters tapped.
+Cycling 3G (3G, Discard this card: Draw a card.)
+When you cycle Secluded Refuge, put a +1/+1 counter on each of up to two target creatures.</text>
+    </card>
+    <card>
+      <name>Ominous Vestige</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)
+Ominous Vestige enters tapped.
+Cycling 3B (3B, Discard this card: Draw a card.)
+When you cycle Ominous Vestige, each opponent discards a card.</text>
+    </card>
+    <card>
+      <name>Cloud of Wreckage</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+Cycling {4} ({4}, Discard this card: Draw a card.)
+When you cycle Cloud of Wreckage, create two Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Magnetic Sandshaper</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Magnetic Sandshaper enters, put two +1/+1 counters on up to one target artifact you control. If that artifact isn’t a creature, instead put five +1/+1 counters on it and it becomes a 0/0 creature in addition to its other types for as long as Magnetic Sandshaper remains on the battlefield.</text>
+    </card>
+    <card>
+      <name>Tectonic Drift</name>
+      <set rarity="common" splitterPath="/Tectonic Drift.png" >EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard up to two cards, then draw that many cards.
+5R: Put Tectonic Drift from your graveyard onto the battlefield transformed. Activate only as a sorcery.
+---
+(Back): Fissure Titan</text>
+      <related attach="transform">Fissure Titan</related>
+    </card>
+    <card>
+      <name>Fissure Titan</name>
+      <set rarity="common" splitterPath="/Fissure Titan.png" >EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental </type>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Fissure Titan attacks, target creature can’t block this turn.
+When Fissure Titan dies, exile it.
+---
+(Front): Tectonic Drift</text>
+      <related attach="transform">Tectonic Drift</related>
+    </card>
+    <card>
+      <name>Momentous Find</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard any number of cards, then draw that many cards plus one. Create a Treasure token for each card with cycling discarded this way.</text>
+    </card>
+    <card>
+      <name>Deepwell Time Capsule</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Mill a card: Add {U}.
+5U, {T}, Exile Deepwell Time Capsule: Return up to two target instant, sorcery, and/or battle cards from your graveyard to your hand. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Esyra&apos;s Claim</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant permanent
+Enchanted permanent is a colorless Esyra land with “{T}, Pay 1 life: Add one mana of any color” and loses all other card types and abilities.</text>
+    </card>
+    <card>
+      <name>Nanite Colony</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Germ </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Put a +1/+1 counter on target creature that entered this turn.</text>
+    </card>
+    <card>
+      <name>Nanogene Repository</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, put a +1/+1 counter on Nanogene Repository.
+Lineage (When this permanent dies, distribute its counters among other permanents you control.)
+{T}, Sacrifice Nanogene Repository: Each opponent loses X life and you gain X life, where X is the number of counters on it. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Dweller in Emptiness</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Dweller in Emptiness can’t attack unless a permanent left the battlefield this turn.</text>
+    </card>
+    <card>
+      <name>Goliath Fleshdrinker</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Jellyfish Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Goliath Fleshdrinker enters, scry 2.</text>
+    </card>
+    <card>
+      <name>Nesting Twinstalk</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bat Leech </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+1B, Pay 1 life: Look at the top two cards of your library. Put one of them into your graveyard.</text>
+    </card>
+    <card>
+      <name>Conductive Lithoid</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If a creature dealt damage by Conductive Lithoid this turn would die, exile it instead.
+Cycling {R} ({R}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Fogspore Behemoth</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6G</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Fungus Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, ward {3}
+Cycling {G} ({G}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Ancient Prison</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+When Ancient Prison enters, exile target nonland permanent an opponent controls until Ancient Prison leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Preserved in Ice</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant artifact or creature
+When Preserved in Ice enters, tap enchanted permanent, then scry 1.
+Enchanted permanent loses all abilities and doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Intestinal Scourge</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Intestinal Scourge dies, choose up to one target creature. Remove a counter from it. If you can’t, that creature gets -1/-1 until end of turn.
+1BB, Pay 1 life, Sacrifice Intestinal Scourge: Draw a card.</text>
+    </card>
+    <card>
+      <name>Polymorphic Seedprobe</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Polymorphic Seedprobe enters, for each other creature you control, choose a counter on that creature. You may put a counter of that kind on Polymorphic Seedprobe.</text>
+    </card>
+    <card>
+      <name>Meandering Greatwurm</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a land you control enters, you gain 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Ancient Relic</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add CC.
+{7}, {T}, Sacrifice Ancient Relic: Create a 7/7 colorless Construct artifact creature token. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Unburied Secrets</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You lose 2 life and mill two cards. You may put those cards into your hand. If you don’t, repeat this process.</text>
+    </card>
+    <card>
+      <name>Nascent Apex</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Nascent Apex attacks, if its power is less than the number of creatures in your ecosystem, you may put a +1/+1 counter on Nascent Apex. (Your ecosystem consists of any number of creatures with different powers.)
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Sedimentary Symbiote</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Beast </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sedimentary Symbiote enters with two +1/+1 counters on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Troodroid Pack</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Troodroid Pack attacks or blocks, it gets +1/+1 until end of turn for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Sensory Synergy</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap up to one target artifact creature and up to one target nonartifact creature. Those creatures get +1/+1 and gain hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>False Ectomorph</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Jellyfish </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying</text>
+    </card>
+    <card>
+      <name>Bloodline&apos;s End</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Pollution Spray</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Target creature gets -2/-2 until end of turn.
+• Remove up to two counters from target permanent.</text>
+    </card>
+    <card>
+      <name>Caught in Amber</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant artifact or creature
+Enchanted permanent can’t attack or block, and its activated abilities can’t be activated.
+When Caught in Amber is put into a graveyard from the battlefield, draw a card.</text>
+    </card>
+    <card>
+      <name>Spawnsac Mutualist</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Sponge </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, reach
+1R, {T}, Discard a card: Create a 2/1 red Leech creature token with menace and haste. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Microbiome Igniter</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+1R: Microbiome Igniter gets +1/+0 until end of turn for each creature in your ecosystem. Activate only once each turn. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Buried Cache</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Buried Cache enters tapped with three supply counters on it.
+{T}, Remove a counter from Buried Cache: Exile the top card of your library. When you do, choose one—
+• Create a Treasure token.
+• You may play the exiled card this turn.</text>
+    </card>
+    <card>
+      <name>Grow Over</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put target artifact, enchantment, or battle on the bottom of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Factoruminant</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1G, {T}: Put a +1/+1 counter on Factoruminant. Activate only as a sorcery.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Nimble Opportunist</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Nimble Opportunist can’t be blocked by creatures with power less than or equal to the number of creatures in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Honed Razorpede</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Honed Razorpede attacks, remove a first strike counter from it. If you do, put a double strike counter on it. Otherwise, put a first strike counter on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Segment Migration</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Atavistic Rebirth</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card with mana value X or less from your graveyard to the battlefield, where X is 1 plus the number of creatures in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Fractal Fission</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XXXR</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/0 red Starfish creature token, then put a +1/+1 counter on each Starfish you control that entered this turn. Repeat this process X times.</text>
+    </card>
+    <card>
+      <name>Coiling Omnivore</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Plant Snake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Coiling Omnivore enters, put a +1/+1 counter on it for each creature in your ecosystem. When you do, Coiling Omnivore fights up to one target creature you don’t control. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Cerebral Parasite</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Fungus </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cerebral Parasite enters, target opponent reveals a number of cards from their hand equal to the number of creatures in your ecosystem. You choose one of those cards. That player discards that card. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Detritus Hoarder</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect Crab </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever Detritus Hoarder deals combat damage to a player or battle, create a tapped Treasure token.
+{1}: Detritus Hoarder gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Overgrown Rustshell</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Plant Crab </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G} for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
+    </card>
+    <card>
+      <name>Mutagenic Orb</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Mutagenic Orb enters with a +1/+1 counter on it.
+Whenever you attack, distribute any number of counters from Mutagenic Orb among any number of attacking creatures. Attacking creatures without lineage gain lineage until end of turn. (When a permanent with lineage dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Razortooth Hellion</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hellion </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+3R, Discard a card: Draw a card and put a +1/+1 counter on Razortooth Hellion.</text>
+    </card>
+    <card>
+      <name>Tantalizing Dreadfruit</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Tantalizing Dreadfruit attacks, if it has a deathtouch counter on it, it must be blocked this turn if able. Otherwise, put a deathtouch counter on it.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+    </card>
+    <card>
+      <name>Archipelago Drake</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Archipelago Drake enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Converted Terraformer</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Construct Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each creature you control with a counter on it.
+3G: Put a +1/+1 counter on target land you control. If it isn’t a creature, it becomes a 3/3 Elemental creature with haste until end of turn. It’s still a land.</text>
+    </card>
+    <card>
+      <name>Ocean Purifier</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, if you control four or more untapped lands, you may draw a card. If you do, discard a card.</text>
+    </card>
+    <card>
+      <name>Segment Prospector</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Segment Collapse</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target land. Its controller sacrifices any number of nonland permanents, then Segment Collapse deals 2 damage to that player for each nonland permanent they control.</text>
+    </card>
+    <card>
+      <name>Distant Oasis</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Exile a card from your graveyard: Add one mana of any of the exiled card’s colors or any color that card could produce.</text>
+    </card>
+    <card>
+      <name>Violent Predation</name>
+      <set rarity="uncommon" splitterPath="/Violent Predation.png" >EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Niche </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it’s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
+When Violent Predation enters, target creature you control deals damage equal to its power to target creature you don’t control.
+---
+(Back): Jagged Fangs</text>
+      <related attach="transform">Jagged Fangs</related>
+    </card>
+    <card>
+      <name>Jagged Fangs</name>
+      <set rarity="uncommon" splitterPath="/Jagged Fangs.png" >EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Adaptation </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(If an Adaptation isn’t attached to a creature, you may attach it to a creature you control as a sorcery.)
+Whenever adapted creature attacks, double its power until end of turn.
+---
+(Front): Violent Predation</text>
+      <related attach="transform">Violent Predation</related>
+    </card>
+    <card>
+      <name>Canopy Grazing</name>
+      <set rarity="uncommon" splitterPath="/Canopy Grazing.png" >EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Niche </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it’s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
+When Canopy Grazing enters, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+---
+(Back): Immense Size</text>
+      <related attach="transform">Immense Size</related>
+    </card>
+    <card>
+      <name>Immense Size</name>
+      <set rarity="uncommon" splitterPath="/Immense Size.png" >EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Adaptation </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(If an Adaptation isn’t attached to a creature, you may attach it to a creature you control as a sorcery.)
+Adapted creature gets +2/+2.
+Whenever a land you control enters, put your choice of a +1/+1 counter or a trample counter on adapted creature.
+---
+(Front): Canopy Grazing</text>
+      <related attach="transform">Canopy Grazing</related>
+    </card>
+    <card>
+      <name>Carrion Scrounging</name>
+      <set rarity="uncommon" splitterPath="/Carrion Scrounging.png" >EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Niche </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it’s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
+When Carrion Scrounging enters, each opponent sacrifices a creature.
+---
+(Back): Hardy Gut</text>
+      <related attach="transform">Hardy Gut</related>
+    </card>
+    <card>
+      <name>Hardy Gut</name>
+      <set rarity="uncommon" splitterPath="/Hardy Gut.png" >EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Adaptation </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(If an Adaptation isn’t attached to a creature, you may attach it to a creature you control as a sorcery.)
+At the beginning of your end step, you may exile target permanent card from a graveyard. If you do, put a +1/+1 counter on adapted creature and you gain 1 life.
+---
+(Front): Carrion Scrounging</text>
+      <related attach="transform">Carrion Scrounging</related>
+    </card>
+    <card>
+      <name>Cooperative Labor</name>
+      <set rarity="uncommon" splitterPath="/Cooperative Labor.png" >EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Niche </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it’s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
+When Cooperative Labor enters, put a +1/+1 counter on each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)
+---
+(Back): Caste Specialization</text>
+      <related attach="transform">Caste Specialization</related>
+    </card>
+    <card>
+      <name>Caste Specialization</name>
+      <set rarity="uncommon" splitterPath="/Caste Specialization.png" >EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Adaptation </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(If an Adaptation isn’t attached to a creature, you may attach it to a creature you control as a sorcery.)
+When Caste Specialization becomes attached to a creature, put two counters of your choice on that creature from among flying, first strike, vigilance, and +1/+1.
+---
+(Front): Cooperative Labor</text>
+      <related attach="transform">Cooperative Labor</related>
+    </card>
+    <card>
+      <name>Cloudkrill Filtering</name>
+      <set rarity="uncommon" splitterPath="/Cloudkrill Filtering.png" >EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Niche </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it’s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
+When Cloudkrill Filtering enters, scry 2, then draw two cards.
+---
+(Back): Skyborne Maw</text>
+      <related attach="transform">Skyborne Maw</related>
+    </card>
+    <card>
+      <name>Skyborne Maw</name>
+      <set rarity="uncommon" splitterPath="/Skyborne Maw.png" >EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Adaptation </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(If an Adaptation isn’t attached to a creature, you may attach it to a creature you control as a sorcery.)
+Whenever you draw a card, put your choice of a +1/+1 counter or a flying counter on adapted creature.
+---
+(Front): Cloudkrill Filtering</text>
+      <related attach="transform">Cloudkrill Filtering</related>
+    </card>
+    <card>
+      <name>Drone Herding</name>
+      <set rarity="uncommon" splitterPath="/Drone Herding.png" >EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Niche </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it’s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
+When Drone Herding enters, create two 1/1 colorless Drone artifact creature tokens.
+---
+(Back): Networked Pheromones</text>
+      <related attach="transform">Networked Pheromones</related>
+    </card>
+    <card>
+      <name>Networked Pheromones</name>
+      <set rarity="uncommon" splitterPath="/Networked Pheromones.png" >EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Adaptation </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(If an Adaptation isn’t attached to a creature, you may attach it to a creature you control as a sorcery.)
+Whenever adapted creature attacks, it gets +1/+1 until end of turn for each attacking creature.
+---
+(Front): Drone Herding</text>
+      <related attach="transform">Drone Herding</related>
+    </card>
+    <card>
+      <name>Eerie Stillness</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Eerie Stillness enters, draw a card.
+Whenever you attack, if Eerie Stillness didn’t enter this turn, return it to its owner’s hand.
+Whenever an opponent attacks, sacrifice Eerie Stillness and that player sacrifices an attacking creature.</text>
+    </card>
+    <card>
+      <name>Mana Siphoning</name>
+      <set rarity="uncommon" splitterPath="/Mana Siphoning.png" >EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Niche </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it’s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
+Flash
+When Mana Siphoning enters, counter target spell unless its controller pays 2.
+---
+(Back): Arcane Senses</text>
+      <related attach="transform">Arcane Senses</related>
+    </card>
+    <card>
+      <name>Arcane Senses</name>
+      <set rarity="uncommon" splitterPath="/Arcane Senses.png" >EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Adaptation </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(If an Adaptation isn’t attached to a creature, you may attach it to a creature you control as a sorcery.)
+Adapted creature has ward {2}.
+Whenever adapted creature deals combat damage to a player or battle, draw a card.
+---
+(Front): Mana Siphoning</text>
+      <related attach="transform">Mana Siphoning</related>
+    </card>
+    <card>
+      <name>Nest Raiding</name>
+      <set rarity="uncommon" splitterPath="/Nest Raiding.png" >EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Niche </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it’s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
+When Nest Raiding enters, target opponent discards two cards and loses 2 life.
+---
+(Back): Grasping Claws</text>
+      <related attach="transform">Grasping Claws</related>
+    </card>
+    <card>
+      <name>Grasping Claws</name>
+      <set rarity="uncommon" splitterPath="/Grasping Claws.png" >EVO</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Adaptation </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(If an Adaptation isn’t attached to a creature, you may attach it to a creature you control as a sorcery.)
+Whenever adapted creature attacks, defending player discards a card. If they can’t, you draw a card.
+---
+(Front): Nest Raiding</text>
+      <related attach="transform">Nest Raiding</related>
+    </card>
+    <card>
+      <name>Wildfire Succession</name>
+      <set rarity="uncommon" splitterPath="/Wildfire Succession.png" >EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Niche </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it’s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
+When Wildfire Succession enters, it deals 2 damage to each creature. If a creature would die this turn, exile it instead.
+---
+(Back): Ashen Carapace</text>
+      <related attach="transform">Ashen Carapace</related>
+    </card>
+    <card>
+      <name>Ashen Carapace</name>
+      <set rarity="uncommon" splitterPath="/Ashen Carapace.png" >EVO</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Adaptation </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(If an Adaptation isn’t attached to a creature, you may attach it to a creature you control as a sorcery.)
+Whenever adapted creature attacks, put your choice of a +1/+1 counter or a menace counter on it.
+---
+(Front): Wildfire Succession</text>
+      <related attach="transform">Wildfire Succession</related>
+    </card>
+    <card>
+      <name>Undergrowth Mimicry</name>
+      <set rarity="uncommon" splitterPath="/Undergrowth Mimicry.png" >EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Niche </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it’s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
+When Undergrowth Mimicry enters, mill four cards, then return a permanent card from your graveyard to your hand.
+---
+(Back): Morphic Hide</text>
+      <related attach="transform">Morphic Hide</related>
+    </card>
+    <card>
+      <name>Morphic Hide</name>
+      <set rarity="uncommon" splitterPath="/Morphic Hide.png" >EVO</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Adaptation </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(If an Adaptation isn’t attached to a creature, you may attach it to a creature you control as a sorcery.)
+Adapted creature has ward {2} and must be blocked if able.
+---
+(Front): Undergrowth Mimicry</text>
+      <related attach="transform">Undergrowth Mimicry</related>
+    </card>
+    <card>
+      <name>Lifeseeker Autowar</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)
+At the beginning of your end step, if you control four or more untapped lands, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Devastation Engine</name>
+      <set rarity="uncommon">EVO</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Juggernaut </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cycle Devastation Engine or discard a creature card while Devastation Engine is on the battlefield, if it’s your first main phase, put that card onto the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.
+Cycling {4} ({4}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Spectral Pursuit</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 colorless Drone artifact creature token and a 1/1 white Spirit creature token with flying.</text>
+    </card>
+    <card>
+      <name>Timely Culling</name>
+      <set rarity="common">EVO</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target permanent spell.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>

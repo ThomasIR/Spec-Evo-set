@@ -1,0 +1,2048 @@
+[CustomCards]
+	[	{
+			"name": "Growing Hunger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesGrowing Hunger.png"
+			}
+		},
+		{
+			"name": "Leyline Compass",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesLeyline Compass.png"
+			}
+		},
+		{
+			"name": "Mobile Nanohive",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment Fortification ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMobile Nanohive.png"
+			}
+		},
+		{
+			"name": "Titanic Rover",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTitanic Rover.png"
+			}
+		},
+		{
+			"name": "Colonial Siphoner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Jellyfish ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesColonial Siphoner.png"
+			}
+		},
+		{
+			"name": "Churn of Eons",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesChurn of Eons.png"
+			}
+		},
+		{
+			"name": "Awakener Gremlin",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Gremlin ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAwakener Gremlin.png"
+			}
+		},
+		{
+			"name": "Hollow Stiltwalker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesHollow Stiltwalker.png"
+			}
+		},
+		{
+			"name": "Weary Vestige",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesWeary Vestige.png"
+			}
+		},
+		{
+			"name": "Drift Away",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDrift Away.png"
+			}
+		},
+		{
+			"name": "Fungal Symbiote",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Fungus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFungal Symbiote.png"
+			}
+		},
+		{
+			"name": "Nectarpot Grub",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesNectarpot Grub.png"
+			}
+		},
+		{
+			"name": "Momentary Breakdown",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMomentary Breakdown.png"
+			}
+		},
+		{
+			"name": "Outcompete",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesOutcompete.png"
+			}
+		},
+		{
+			"name": "Restless Landscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesRestless Landscape.png"
+			}
+		},
+		{
+			"name": "Integrated Armory",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesIntegrated Armory.png"
+			}
+		},
+		{
+			"name": "Endless Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesEndless Path.png"
+			}
+		},
+		{
+			"name": "Treasure Hunt",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTreasure Hunt.png"
+			}
+		},
+		{
+			"name": "Nanogene Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Gremlin ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesNanogene Thief.png"
+			}
+		},
+		{
+			"name": "Drowning in Tar",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDrowning in Tar.png"
+			}
+		},
+		{
+			"name": "Surgical Drone",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSurgical Drone_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSurgical Drone_back.png"
+				}
+			}
+		},
+		{
+			"name": "Distant Horizons",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDistant Horizons.png"
+			}
+		},
+		{
+			"name": "Memories of Extinction",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMemories of Extinction.png"
+			}
+		},
+		{
+			"name": "Automated Defenses",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAutomated Defenses.png"
+			}
+		},
+		{
+			"name": "Rapid Assimilation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesRapid Assimilation.png"
+			}
+		},
+		{
+			"name": "Perilous Descent",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesPerilous Descent.png"
+			}
+		},
+		{
+			"name": "Adamant Raptor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Drone Bird ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAdamant Raptor.png"
+			}
+		},
+		{
+			"name": "Pitfall Excavator",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesPitfall Excavator.png"
+			}
+		},
+		{
+			"name": "Feral Hunter-Killer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFeral Hunter-Killer.png"
+			}
+		},
+		{
+			"name": "Tanglepod Larva",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Insect Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTanglepod Larva.png"
+			}
+		},
+		{
+			"name": "Ion Cruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Artifact Creature — Drone Ship ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesIon Cruiser.png"
+			}
+		},
+		{
+			"name": "Symbiotic Tactics",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSymbiotic Tactics.png"
+			}
+		},
+		{
+			"name": "Silicon Predator",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elemental Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSilicon Predator.png"
+			}
+		},
+		{
+			"name": "Harrier Drone",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesHarrier Drone.png"
+			}
+		},
+		{
+			"name": "Harsh Conditions",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesHarsh Conditions.png"
+			}
+		},
+		{
+			"name": "Oceanic Monstrosity",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Leviathan ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesOceanic Monstrosity.png"
+			}
+		},
+		{
+			"name": "Autonomous Carrier",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Drone Ship ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAutonomous Carrier.png"
+			}
+		},
+		{
+			"name": "Phase Stalker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesPhase Stalker.png"
+			}
+		},
+		{
+			"name": "Out of Sync",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesOut of Sync.png"
+			}
+		},
+		{
+			"name": "Relentless Rover",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesRelentless Rover.png"
+			}
+		},
+		{
+			"name": "Blight Gorger",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesBlight Gorger.png"
+			}
+		},
+		{
+			"name": "Culling Drone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCulling Drone.png"
+			}
+		},
+		{
+			"name": "Vestige of Calamity",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesVestige of Calamity.png"
+			}
+		},
+		{
+			"name": "Viscera Drone",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesViscera Drone.png"
+			}
+		},
+		{
+			"name": "Oilfang Pack",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Dog ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesOilfang Pack.png"
+			}
+		},
+		{
+			"name": "Twisted Amalgam",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTwisted Amalgam.png"
+			}
+		},
+		{
+			"name": "Unnatural Preservation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesUnnatural Preservation.png"
+			}
+		},
+		{
+			"name": "Earthen Awakening",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesEarthen Awakening.png"
+			}
+		},
+		{
+			"name": "Peroxide Spitter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesPeroxide Spitter.png"
+			}
+		},
+		{
+			"name": "Boomcroak Alpha",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Frog Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesBoomcroak Alpha.png"
+			}
+		},
+		{
+			"name": "Rockslide Hellion",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Hellion ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesRockslide Hellion.png"
+			}
+		},
+		{
+			"name": "Voracite Swarm",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesVoracite Swarm.png"
+			}
+		},
+		{
+			"name": "Curious Rover",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCurious Rover.png"
+			}
+		},
+		{
+			"name": "Burn Fuel",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesBurn Fuel.png"
+			}
+		},
+		{
+			"name": "Limits of Solidarity",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesLimits of Solidarity.png"
+			}
+		},
+		{
+			"name": "Atomic Brute",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAtomic Brute.png"
+			}
+		},
+		{
+			"name": "Vengeant Earth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesVengeant Earth.png"
+			}
+		},
+		{
+			"name": "Flourishing Leylith",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Elemental ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFlourishing Leylith.png"
+			}
+		},
+		{
+			"name": "Root Grub",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesRoot Grub.png"
+			}
+		},
+		{
+			"name": "Harvest Drone",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesHarvest Drone.png"
+			}
+		},
+		{
+			"name": "Colossal Ancient",
+			"rarity": "common",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Dinosaur ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesColossal Ancient.png"
+			}
+		},
+		{
+			"name": "Earth Weaver",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental Spider ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesEarth Weaver.png"
+			}
+		},
+		{
+			"name": "Brooding Terraloth",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Turtle Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesBrooding Terraloth.png"
+			}
+		},
+		{
+			"name": "Valrain's Journal",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesValrain's Journal.png"
+			}
+		},
+		{
+			"name": "Synthfruit Grove",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSynthfruit Grove.png"
+			}
+		},
+		{
+			"name": "Towering Mechanoid",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTowering Mechanoid.png"
+			}
+		},
+		{
+			"name": "Looming Pinnacle",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesLooming Pinnacle.png"
+			}
+		},
+		{
+			"name": "Adaptive Vermin",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Rat ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAdaptive Vermin_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAdaptive Vermin_back.png"
+				}
+			}
+		},
+		{
+			"name": "Adaptive Rover",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAdaptive Rover.png"
+			}
+		},
+		{
+			"name": "Afflicted Sanguivore",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Dog ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAfflicted Sanguivore.png"
+			}
+		},
+		{
+			"name": "Territorial Bellower",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTerritorial Bellower.png"
+			}
+		},
+		{
+			"name": "Ceaseless Exploration",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCeaseless Exploration_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCeaseless Exploration_back.png"
+				}
+			}
+		},
+		{
+			"name": "Stampeding Thunderbeest",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesStampeding Thunderbeest.png"
+			}
+		},
+		{
+			"name": "Doomed Vessel",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Spirit Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDoomed Vessel_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDoomed Vessel_back.png"
+				}
+			}
+		},
+		{
+			"name": "Patient Ambusher",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Squid ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesPatient Ambusher.png"
+			}
+		},
+		{
+			"name": "Fledgling Pterokite",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dinosaur ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFledgling Pterokite.png"
+			}
+		},
+		{
+			"name": "Ocean Segment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesOcean Segment.png"
+			}
+		},
+		{
+			"name": "Ridge Segment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesRidge Segment.png"
+			}
+		},
+		{
+			"name": "Prairie Segment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesPrairie Segment.png"
+			}
+		},
+		{
+			"name": "Waste Segment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesWaste Segment.png"
+			}
+		},
+		{
+			"name": "Uncharted Haven",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesUncharted Haven.png"
+			}
+		},
+		{
+			"name": "Timber Segment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTimber Segment.png"
+			}
+		},
+		{
+			"name": "Moor Segment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMoor Segment.png"
+			}
+		},
+		{
+			"name": "Xerid Sentry",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Crab ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesXerid Sentry.png"
+			}
+		},
+		{
+			"name": "Blighted Hulk",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Zombie Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesBlighted Hulk.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesForest.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMountain.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSwamp.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesIsland.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesPlains.png"
+			}
+		},
+		{
+			"name": "Thirst for Insight",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesThirst for Insight.png"
+			}
+		},
+		{
+			"name": "Ravenous Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dinosaur ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesRavenous Hunter.png"
+			}
+		},
+		{
+			"name": "Goliath Hydra",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Creature — Hydra ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesGoliath Hydra.png"
+			}
+		},
+		{
+			"name": "Tactician Drone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTactician Drone.png"
+			}
+		},
+		{
+			"name": "Shore Drinker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Lizard Shark ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesShore Drinker.png"
+			}
+		},
+		{
+			"name": "Crystalling",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental Shapeshifter ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCrystalling.png"
+			}
+		},
+		{
+			"name": "Skyline Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSkyline Sentinel.png"
+			}
+		},
+		{
+			"name": "Wasteland Dowser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesWasteland Dowser.png"
+			}
+		},
+		{
+			"name": "Shrieking Detritivore",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Fungus Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesShrieking Detritivore.png"
+			}
+		},
+		{
+			"name": "Unending Swarm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesUnending Swarm.png"
+			}
+		},
+		{
+			"name": "Unrestrained Expansion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesUnrestrained Expansion.png"
+			}
+		},
+		{
+			"name": "Fused Chimera",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Leech Chimera ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFused Chimera.png"
+			}
+		},
+		{
+			"name": "Rumbling Scalecrusher",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Lizard Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesRumbling Scalecrusher.png"
+			}
+		},
+		{
+			"name": "Fuelpot Drone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFuelpot Drone.png"
+			}
+		},
+		{
+			"name": "Bombardment Drone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesBombardment Drone.png"
+			}
+		},
+		{
+			"name": "Esyra Outskirts",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Esyra ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesEsyra Outskirts.png"
+			}
+		},
+		{
+			"name": "Eerie Citadel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesEerie Citadel.png"
+			}
+		},
+		{
+			"name": "Flooded Resort",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFlooded Resort.png"
+			}
+		},
+		{
+			"name": "Lithoid Prowler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesLithoid Prowler.png"
+			}
+		},
+		{
+			"name": "Unstable Segment",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesUnstable Segment.png"
+			}
+		},
+		{
+			"name": "Relic Trawler",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Drone Ship ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesRelic Trawler.png"
+			}
+		},
+		{
+			"name": "Awakened Behemoth",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{R}{G}",
+			"type": "Creature — Elemental Giant ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAwakened Behemoth.png"
+			}
+		},
+		{
+			"name": "Adaptive Apex",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAdaptive Apex.png"
+			}
+		},
+		{
+			"name": "Extractor Vessel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Artifact Creature — Spirit Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesExtractor Vessel.png"
+			}
+		},
+		{
+			"name": "Fruiting Chorus",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Creature — Fungus Dryad ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFruiting Chorus.png"
+			}
+		},
+		{
+			"name": "Gestalt Resonator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Artifact Creature — Drone Bird ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesGestalt Resonator.png"
+			}
+		},
+		{
+			"name": "Keystone Grazer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Squid Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesKeystone Grazer.png"
+			}
+		},
+		{
+			"name": "Genetic Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Leech Horror ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesGenetic Scavenger.png"
+			}
+		},
+		{
+			"name": "Secluded Refuge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSecluded Refuge.png"
+			}
+		},
+		{
+			"name": "Ominous Vestige",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesOminous Vestige.png"
+			}
+		},
+		{
+			"name": "Cloud of Wreckage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCloud of Wreckage.png"
+			}
+		},
+		{
+			"name": "Magnetic Sandshaper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Elemental ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMagnetic Sandshaper.png"
+			}
+		},
+		{
+			"name": "Tectonic Drift",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTectonic Drift_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTectonic Drift_back.png"
+				}
+			}
+		},
+		{
+			"name": "Momentous Find",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMomentous Find.png"
+			}
+		},
+		{
+			"name": "Deepwell Time Capsule",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDeepwell Time Capsule.png"
+			}
+		},
+		{
+			"name": "Esyra's Claim",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesEsyra's Claim.png"
+			}
+		},
+		{
+			"name": "Drone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDrone.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSpirit.png"
+			}
+		},
+		{
+			"name": "Wurm",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wurm ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesWurm.png"
+			}
+		},
+		{
+			"name": "Nanite Colony",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Germ ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesNanite Colony.png"
+			}
+		},
+		{
+			"name": "Nanogene Repository",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesNanogene Repository.png"
+			}
+		},
+		{
+			"name": "Dweller in Emptiness",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDweller in Emptiness.png"
+			}
+		},
+		{
+			"name": "Goliath Fleshdrinker",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Jellyfish Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesGoliath Fleshdrinker.png"
+			}
+		},
+		{
+			"name": "Nesting Twinstalk",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bat Leech ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesNesting Twinstalk.png"
+			}
+		},
+		{
+			"name": "Conductive Lithoid",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesConductive Lithoid.png"
+			}
+		},
+		{
+			"name": "Fogspore Behemoth",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Fungus Dinosaur ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFogspore Behemoth.png"
+			}
+		},
+		{
+			"name": "Ancient Prison",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Wall ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAncient Prison.png"
+			}
+		},
+		{
+			"name": "Preserved in Ice",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesPreserved in Ice.png"
+			}
+		},
+		{
+			"name": "Intestinal Scourge",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesIntestinal Scourge.png"
+			}
+		},
+		{
+			"name": "Polymorphic Seedprobe",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Shapeshifter ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesPolymorphic Seedprobe.png"
+			}
+		},
+		{
+			"name": "Meandering Greatwurm",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Wurm ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMeandering Greatwurm.png"
+			}
+		},
+		{
+			"name": "Ancient Relic",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAncient Relic.png"
+			}
+		},
+		{
+			"name": "Unburied Secrets",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesUnburied Secrets.png"
+			}
+		},
+		{
+			"name": "Nascent Apex",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesNascent Apex.png"
+			}
+		},
+		{
+			"name": "Sedimentary Symbiote",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSedimentary Symbiote.png"
+			}
+		},
+		{
+			"name": "Troodroid Pack",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Dinosaur ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTroodroid Pack.png"
+			}
+		},
+		{
+			"name": "Sensory Synergy",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSensory Synergy.png"
+			}
+		},
+		{
+			"name": "False Ectomorph",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Jellyfish ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFalse Ectomorph.png"
+			}
+		},
+		{
+			"name": "Bloodline's End",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesBloodline's End.png"
+			}
+		},
+		{
+			"name": "Pollution Spray",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesPollution Spray.png"
+			}
+		},
+		{
+			"name": "Caught in Amber",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCaught in Amber.png"
+			}
+		},
+		{
+			"name": "Spawnsac Mutualist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Sponge ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSpawnsac Mutualist.png"
+			}
+		},
+		{
+			"name": "Microbiome Igniter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMicrobiome Igniter.png"
+			}
+		},
+		{
+			"name": "Buried Cache",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesBuried Cache.png"
+			}
+		},
+		{
+			"name": "Grow Over",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesGrow Over.png"
+			}
+		},
+		{
+			"name": "Factoruminant",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFactoruminant.png"
+			}
+		},
+		{
+			"name": "Nimble Opportunist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesNimble Opportunist.png"
+			}
+		},
+		{
+			"name": "Honed Razorpede",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Insect ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesHoned Razorpede.png"
+			}
+		},
+		{
+			"name": "Segment Migration",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSegment Migration.png"
+			}
+		},
+		{
+			"name": "Atavistic Rebirth",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesAtavistic Rebirth.png"
+			}
+		},
+		{
+			"name": "Fractal Fission",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{X}{X}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesFractal Fission.png"
+			}
+		},
+		{
+			"name": "Coiling Omnivore",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Snake ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCoiling Omnivore.png"
+			}
+		},
+		{
+			"name": "Cerebral Parasite",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Fungus ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCerebral Parasite.png"
+			}
+		},
+		{
+			"name": "Detritus Hoarder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Crab ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDetritus Hoarder.png"
+			}
+		},
+		{
+			"name": "Overgrown Rustshell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Plant Crab ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesOvergrown Rustshell.png"
+			}
+		},
+		{
+			"name": "Mutagenic Orb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMutagenic Orb.png"
+			}
+		},
+		{
+			"name": "Razortooth Hellion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hellion ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesRazortooth Hellion.png"
+			}
+		},
+		{
+			"name": "Tantalizing Dreadfruit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Plant Zombie ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTantalizing Dreadfruit.png"
+			}
+		},
+		{
+			"name": "Archipelago Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Drake ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesArchipelago Drake.png"
+			}
+		},
+		{
+			"name": "Converted Terraformer",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Artifact Creature — Construct Avatar ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesConverted Terraformer.png"
+			}
+		},
+		{
+			"name": "Leech",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Leech ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesLeech.png"
+			}
+		},
+		{
+			"name": "Esyra",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Land — Esyra ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesEsyra.png"
+			}
+		},
+		{
+			"name": "Ocean Purifier",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesOcean Purifier.png"
+			}
+		},
+		{
+			"name": "Segment Prospector",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Drone ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSegment Prospector.png"
+			}
+		},
+		{
+			"name": "Segment Collapse",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSegment Collapse.png"
+			}
+		},
+		{
+			"name": "Starfish",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Starfish ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesStarfish.png"
+			}
+		},
+		{
+			"name": "Distant Oasis",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDistant Oasis.png"
+			}
+		},
+		{
+			"name": "Egg",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Egg ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesEgg.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact — Treasure ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTreasure.png"
+			}
+		},
+		{
+			"name": "Violent Predation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Battle — Niche ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesViolent Predation_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesViolent Predation_back.png"
+				}
+			}
+		},
+		{
+			"name": "Canopy Grazing",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Battle — Niche ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCanopy Grazing_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCanopy Grazing_back.png"
+				}
+			}
+		},
+		{
+			"name": "Carrion Scrounging",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Battle — Niche ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCarrion Scrounging_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCarrion Scrounging_back.png"
+				}
+			}
+		},
+		{
+			"name": "Cooperative Labor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Battle — Niche ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCooperative Labor_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCooperative Labor_back.png"
+				}
+			}
+		},
+		{
+			"name": "Cloudkrill Filtering",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Battle — Niche ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCloudkrill Filtering_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesCloudkrill Filtering_back.png"
+				}
+			}
+		},
+		{
+			"name": "Drone Herding",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Niche ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDrone Herding_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDrone Herding_back.png"
+				}
+			}
+		},
+		{
+			"name": "Eerie Stillness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesEerie Stillness.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesConstruct.png"
+			}
+		},
+		{
+			"name": "Mana Siphoning",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Battle — Niche ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMana Siphoning_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesMana Siphoning_back.png"
+				}
+			}
+		},
+		{
+			"name": "Nest Raiding",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Battle — Niche ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesNest Raiding_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesNest Raiding_back.png"
+				}
+			}
+		},
+		{
+			"name": "Wildfire Succession",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Battle — Niche ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesWildfire Succession_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesWildfire Succession_back.png"
+				}
+			}
+		},
+		{
+			"name": "Undergrowth Mimicry",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Battle — Niche ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesUndergrowth Mimicry_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesUndergrowth Mimicry_back.png"
+				}
+			}
+		},
+		{
+			"name": "Lifeseeker Autowar",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Beast ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesLifeseeker Autowar.png"
+			}
+		},
+		{
+			"name": "Devastation Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Juggernaut ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesDevastation Engine.png"
+			}
+		},
+		{
+			"name": "Spectral Pursuit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesSpectral Pursuit.png"
+			}
+		},
+		{
+			"name": "Timely Culling",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Spec-Evo-set/main/Spec Evo set-filesTimely Culling.png"
+			}
+		},
+		]
+	[UncommonSlot(3)]
+	9 Colonial Siphoner
+		9 Restless Landscape
+		9 Integrated Armory
+		9 Nanogene Thief
+		9 Memories of Extinction
+		9 Rapid Assimilation
+		9 Ion Cruiser
+		9 Culling Drone
+		9 Looming Pinnacle
+		9 Xerid Sentry
+		9 Blighted Hulk
+		9 Ravenous Hunter
+		9 Goliath Hydra
+		9 Tactician Drone
+		9 Shore Drinker
+		9 Crystalling
+		9 Skyline Sentinel
+		9 Wasteland Dowser
+		9 Shrieking Detritivore
+		9 Unending Swarm
+		9 Unrestrained Expansion
+		9 Fused Chimera
+		9 Rumbling Scalecrusher
+		9 Fuelpot Drone
+		9 Bombardment Drone
+		9 Esyra Outskirts
+		9 Eerie Citadel
+		9 Flooded Resort
+		9 Lithoid Prowler
+		9 Unstable Segment
+		9 Relic Trawler
+		9 Awakened Behemoth
+		9 Adaptive Apex
+		9 Extractor Vessel
+		9 Fruiting Chorus
+		9 Gestalt Resonator
+		9 Keystone Grazer
+		9 Genetic Scavenger
+		9 Secluded Refuge
+		9 Ominous Vestige
+		9 Cloud of Wreckage
+		9 Magnetic Sandshaper
+		9 Momentous Find
+		9 Deepwell Time Capsule
+		9 Esyra's Claim
+		9 Nanogene Repository
+		9 Dweller in Emptiness
+		9 Ancient Prison
+		9 Intestinal Scourge
+		9 Polymorphic Seedprobe
+		9 Meandering Greatwurm
+		9 Unburied Secrets
+		9 Nascent Apex
+		9 Honed Razorpede
+		9 Segment Migration
+		9 Atavistic Rebirth
+		9 Fractal Fission
+		9 Coiling Omnivore
+		9 Detritus Hoarder
+		9 Overgrown Rustshell
+		9 Mutagenic Orb
+		9 Razortooth Hellion
+		9 Tantalizing Dreadfruit
+		9 Archipelago Drake
+		9 Converted Terraformer
+		9 Segment Collapse
+		9 Distant Oasis
+		9 Violent Predation
+		9 Canopy Grazing
+		9 Carrion Scrounging
+		9 Cooperative Labor
+		9 Cloudkrill Filtering
+		9 Drone Herding
+		9 Eerie Stillness
+		9 Mana Siphoning
+		9 Nest Raiding
+		9 Wildfire Succession
+		9 Undergrowth Mimicry
+		9 Lifeseeker Autowar
+		9 Devastation Engine
+		[CommonSlot(11)]
+	30 Growing Hunger
+		30 Leyline Compass
+		30 Mobile Nanohive
+		30 Titanic Rover
+		30 Churn of Eons
+		30 Awakener Gremlin
+		30 Hollow Stiltwalker
+		30 Weary Vestige
+		30 Drift Away
+		30 Fungal Symbiote
+		30 Nectarpot Grub
+		30 Momentary Breakdown
+		30 Outcompete
+		30 Endless Path
+		30 Treasure Hunt
+		30 Drowning in Tar
+		30 Surgical Drone
+		30 Distant Horizons
+		30 Automated Defenses
+		30 Perilous Descent
+		30 Adamant Raptor
+		30 Pitfall Excavator
+		30 Feral Hunter-Killer
+		30 Tanglepod Larva
+		30 Symbiotic Tactics
+		30 Silicon Predator
+		30 Harrier Drone
+		30 Harsh Conditions
+		30 Oceanic Monstrosity
+		30 Autonomous Carrier
+		30 Phase Stalker
+		30 Out of Sync
+		30 Relentless Rover
+		30 Blight Gorger
+		30 Vestige of Calamity
+		30 Viscera Drone
+		30 Oilfang Pack
+		30 Twisted Amalgam
+		30 Unnatural Preservation
+		30 Earthen Awakening
+		30 Peroxide Spitter
+		30 Boomcroak Alpha
+		30 Rockslide Hellion
+		30 Voracite Swarm
+		30 Curious Rover
+		30 Burn Fuel
+		30 Limits of Solidarity
+		30 Atomic Brute
+		30 Vengeant Earth
+		30 Flourishing Leylith
+		30 Root Grub
+		30 Harvest Drone
+		30 Colossal Ancient
+		30 Earth Weaver
+		30 Brooding Terraloth
+		30 Valrain's Journal
+		30 Synthfruit Grove
+		30 Towering Mechanoid
+		30 Adaptive Vermin
+		30 Adaptive Rover
+		30 Afflicted Sanguivore
+		30 Territorial Bellower
+		30 Ceaseless Exploration
+		30 Stampeding Thunderbeest
+		30 Doomed Vessel
+		30 Patient Ambusher
+		30 Fledgling Pterokite
+		30 Ocean Segment
+		30 Ridge Segment
+		30 Prairie Segment
+		30 Waste Segment
+		30 Uncharted Haven
+		30 Timber Segment
+		30 Moor Segment
+		30 Thirst for Insight
+		30 Tectonic Drift
+		30 Nanite Colony
+		30 Goliath Fleshdrinker
+		30 Nesting Twinstalk
+		30 Conductive Lithoid
+		30 Fogspore Behemoth
+		30 Preserved in Ice
+		30 Ancient Relic
+		30 Sedimentary Symbiote
+		30 Troodroid Pack
+		30 Sensory Synergy
+		30 False Ectomorph
+		30 Bloodline's End
+		30 Pollution Spray
+		30 Caught in Amber
+		30 Spawnsac Mutualist
+		30 Microbiome Igniter
+		30 Buried Cache
+		30 Grow Over
+		30 Factoruminant
+		30 Nimble Opportunist
+		30 Cerebral Parasite
+		30 Ocean Purifier
+		30 Segment Prospector
+		30 Treasure
+		30 Spectral Pursuit
+		30 Timely Culling
+		[LandSlot(1)]
+	
