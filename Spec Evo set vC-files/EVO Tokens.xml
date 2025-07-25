@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Drone EVO</name>
+      <set>EVO</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="2">Drone Herding</reverse-related>
+      <reverse-related>Silicon Predator</reverse-related>
+      <reverse-related>Spectral Pursuit</reverse-related>
+      <reverse-related>Integrated Armory</reverse-related>
+    </card>
+    <card>
+      <name>Spirit EVO</name>
+      <set>EVO</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Spectral Pursuit</reverse-related>
+      <reverse-related>Soulkeeper Drone</reverse-related>
+      <reverse-related>Memories of Extinction</reverse-related>
+      <reverse-related>Eerie Citadel</reverse-related>
+    </card>
+    <card>
+      <name>Wurm EVO</name>
+      <set>EVO</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Leech EVO</name>
+      <set>EVO</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Leech </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, haste</text>
+      <token>1</token>
+      <reverse-related>Spawnsac Mutualist</reverse-related>
+    </card>
+    <card>
+      <name>Esyra EVO</name>
+      <set>EVO</set>
+      <prop>
+        <colors></colors>
+        <type>Token Land - Esyra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Esyra Outskirts</reverse-related>
+    </card>
+    <card>
+      <name>Starfish EVO</name>
+      <set>EVO</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Starfish </type>
+        <maintype>Creature</maintype>
+        <pt>1/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Fractal Fission</reverse-related>
+    </card>
+    <card>
+      <name>Egg EVO</name>
+      <set>EVO</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Egg </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+{T}, Sacrifice this creature: Add GG. Spend this mana only to cast creature spells.</text>
+      <token>1</token>
+      <reverse-related>Brooding Terraloth</reverse-related>
+    </card>
+    <card>
+      <name>Treasure EVO</name>
+      <set>EVO</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Buried Cache</reverse-related>
+      <reverse-related>Detritus Hoarder</reverse-related>
+      <reverse-related>Momentous Find</reverse-related>
+      <reverse-related count="2">Cloud of Wreckage</reverse-related>
+    </card>
+    <card>
+      <name>Construct EVO</name>
+      <set>EVO</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Ancient Relic</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
