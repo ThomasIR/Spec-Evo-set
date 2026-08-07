@@ -2088,7 +2088,7 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
+	[RareSlot(1)]
 	[UncommonSlot(3)]
 		9 District Sower
 		9 Colonial Siphoner
@@ -2142,16 +2142,7 @@
 		9 Tantalizing Dreadfruit
 		9 Converted Terraformer
 		9 Segment Collapse
-		9 Violent Predation
-		9 Canopy Grazing
-		9 Carrion Scrounging
-		9 Cloudkrill Filtering
-		9 Drone Herding
 		9 Eerie Stillness
-		9 Mana Siphoning
-		9 Nest Raiding
-		9 Wildfire Succession
-		9 Undergrowth Mimicry
 		9 Devastation Engine
 		9 Reactor Forger
 		9 Esyra Outskirts
@@ -2177,7 +2168,6 @@
 		9 Bubbling Lagoon
 		9 Whalefall Delver
 		9 Nascent Apex
-		9 Cooperative Labor
 		9 Insatiable Voidtongue
 		9 Nanogene Thief
 	[CommonSlot(11)]
@@ -2195,7 +2185,6 @@
 		30 Feral Hunter-Killer
 		30 Treasure Hunt
 		30 Drowning in Tar
-		30 Surgical Drone
 		30 Distant Horizons
 		30 Automated Defenses
 		30 Pitfall Excavator
@@ -2232,17 +2221,13 @@
 		30 Valrain's Journal
 		30 Synthfruit Grove
 		30 Towering Mechanoid
-		30 Resourceful Vermin
 		30 Virulent Cancrin
 		30 Territorial Bellower
-		30 Ceaseless Exploration
 		30 Stampeding Thunderbeest
-		30 Doomed Vessel
 		30 Greater Fleshdrinker
 		30 Fledgling Amphipteron
 		30 Evolving Wilds
 		30 Thirst for Insight
-		30 Tectonic Drift
 		30 Unexpected Windfall
 		30 Nanite Colony
 		30 Placid Sailfan
@@ -2287,10 +2272,19 @@
 		30 Momentary Breakdown
 		30 Tropical Laminopod
 		30 Ancient Relic
-	[BasicSlot(1)]
-		30 Forest
-		30 Mountain
-		30 Swamp
-		30 Island
-		30 Plains
-	
+	[LandSlot(1)]
+		30 Surgical Drone
+		30 Resourceful Vermin
+		30 Doomed Vessel
+		30 Ceaseless Exploration
+		30 Tectonic Drift
+		15 Cooperative Labor
+		15 Mana Siphoning
+		15 Nest Raiding
+		15 Wildfire Succession
+		15 Undergrowth Mimicry
+		15 Violent Predation
+		15 Canopy Grazing
+		15 Carrion Scrounging
+		15 Cloudkrill Filtering
+		15 Drone Herding
